@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.spring.hruser</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>hr-user</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>hr-user</name>
     <description>User Microservice</description>
